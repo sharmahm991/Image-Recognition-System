@@ -1,1 +1,1 @@
-# Image-Recognition-System
+# Data Normalization for fruit and vegetable Detection
